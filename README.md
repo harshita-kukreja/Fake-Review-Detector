@@ -3,7 +3,7 @@ Fake Review Detector is an AI-powered application that identifies deceptive hote
 Using NLP techniques and machine learning models (TF-IDF + Logistic Regression / Linear SVC), this project helps distinguish between truthful and fake reviews.
 
 **Dataset**
-We used the Deceptive Opinion Spam Corpus:
+I used the Deceptive Opinion Spam Corpus:
 400 truthful positive reviews (TripAdvisor)
 400 deceptive positive reviews (Mechanical Turk)
 400 truthful negative reviews (Expedia, Hotels.com, etc.)
